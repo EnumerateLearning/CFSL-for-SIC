@@ -1,1 +1,1 @@
-# CFSL-for-SIC
+# Continual Few-Shot Learning for Segmented Image Classification
